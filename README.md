@@ -1,11 +1,12 @@
-# Randomized starfield banner
-
-- Approx. completion time: **1 hour**
-- Deliverables: **1 HTML file, 1 CSS file, 1 JS file**
-
+---
+summary: 'Use Javascript and CSS effects to make a banner with an animated random starfield in the background.'
+time: '1 hour'
+deliverables: '1 HTML file, 1 CSS file, 1 JS file'
 ---
 
-**Use Javascript and CSS effects to make a banner with an animated random starfield in the background.**
+# Randomized starfield banner
+
+## Overview
 
 - *Fork this repository.*
 - Write Javascript that will generate 75 stars into the banner with random locations, opacities, rotations, and scales.
@@ -34,4 +35,4 @@ Create the interaction shown in the linked video.
 
 ## Hand in
 
-Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit online.

@@ -1,10 +1,13 @@
 repo: "randomized-starfield-banner"
-canvasCourse: "467503"
-canvasAssignment: "4394300"
 
 naming: true
-commits: 2
+restrictFileTypes: true
 liveWebsite: true
+
+git:
+  numCommits: 2
+  allCommitted: true
+  allSynced: true
 
 html:
   - path: "index.html"
@@ -52,7 +55,7 @@ functionality:
         let banner = $('.banner');
         let stars = $$('.star');
 
-        if (stars.length < 75) fail('There isn’t enough stars in the banner');
+        if (stars.length < 75) fail('There aren’t enough stars in the banner');
         if (css(stars[0]).top == css(stars[1]).top) fail('The stars’ `top` coordinate isn’t randomized');
         if (css(stars[2]).left == css(stars[3]).left) fail('The stars’ `left` coordinate isn’t randomized');
         if (css(stars[4]).opacity == css(stars[5]).opacity) fail('The stars’ `opacity` isn’t randomized');
