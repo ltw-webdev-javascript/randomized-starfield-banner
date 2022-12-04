@@ -29,7 +29,7 @@ deliverables: '1 HTML file, 1 CSS file, 1 JS file'
 
 Create the interaction shown in the linked video.
 
-- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-js/randomized-stars.mp4)
+- [**Watch this video to see how it interacts.**](https://video-assets.learntheweb.courses/web-dev-js/randomized-stars.mp4)
 
 ---
 
